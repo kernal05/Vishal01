@@ -22,7 +22,7 @@ I’m Vishal Jena, a certified Cloud & DevOps Engineer who hold's  an Bachlore's
 ![](https://github-profile-trophy.vercel.app/?username=kernal05&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Famous Dev Quote
-![](https://www.canva.com/design/DAGtJr1-_wc/yjEFxKOPspXJ8aZJTFIQTA/view?utm_content=DAGtJr1-_wc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h87506c6f27)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kernal05&icon=0&color=0)](https://visitcount.itsvg.in)
